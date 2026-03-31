@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++20 -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/compare.dir/link.d CMakeFiles/compare.dir/compare_autogen/mocs_compilation.cpp.o CMakeFiles/compare.dir/compare.cpp.o -o compare-1.0

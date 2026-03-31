@@ -1,0 +1,13 @@
+/home/kashish/github/small_project/build/CMakeFiles/compare.dir
+/home/kashish/github/small_project/build/CMakeFiles/dashboard.dir
+/home/kashish/github/small_project/build/CMakeFiles/test.dir
+/home/kashish/github/small_project/build/CMakeFiles/edit_cache.dir
+/home/kashish/github/small_project/build/CMakeFiles/rebuild_cache.dir
+/home/kashish/github/small_project/build/CMakeFiles/list_install_components.dir
+/home/kashish/github/small_project/build/CMakeFiles/install.dir
+/home/kashish/github/small_project/build/CMakeFiles/install/local.dir
+/home/kashish/github/small_project/build/CMakeFiles/install/strip.dir
+/home/kashish/github/small_project/build/CMakeFiles/compare_autogen_timestamp_deps.dir
+/home/kashish/github/small_project/build/CMakeFiles/compare_autogen.dir
+/home/kashish/github/small_project/build/CMakeFiles/dashboard_autogen_timestamp_deps.dir
+/home/kashish/github/small_project/build/CMakeFiles/dashboard_autogen.dir

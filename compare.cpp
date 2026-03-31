@@ -1,7 +1,7 @@
 // compare.cpp
 // Simple comparator: normalize strings, compute Levenshtein distance and similarity
 // Usage:
-//  compare_tool --protected-dir /home/user/Desktop/protected --threshold 0.7 --input "text"
+//  compare_tool --protected-dir /home/user/Desktop/protected --threshold 0.01 --input "text"
 //  or: echo "text" | compare_tool --protected-dir ...
 
 #include <algorithm>
@@ -64,7 +64,7 @@ static int levenshtein_distance(const std::string &a, const std::string &b) {
 
 int main(int argc, char **argv) {
     std::string protected_dir;
-    double threshold = 0.7;
+    double threshold = 0.01;
     std::string input;
 
     // simple arg parsing

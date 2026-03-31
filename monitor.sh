@@ -2,8 +2,8 @@
 # Simple clipboard monitor that calls the C++ compare_tool
 
 PROTECTED_DIR="$HOME/Desktop/protected"
-THRESHOLD=0.70
-POLL_INTERVAL=0.7
+THRESHOLD=0.01
+POLL_INTERVAL=1.0
 COMPARE_BIN="$(pwd)/plugins/content_fingerprinting/cpp/compare_tool"
 
 if [[ ! -x "$COMPARE_BIN" ]]; then

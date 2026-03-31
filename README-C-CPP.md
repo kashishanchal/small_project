@@ -30,7 +30,7 @@ bash projects/dlp_clipboard_monitor/monitor.sh
 
 Configuration
 - Protected files directory: `~/Desktop/protected` by default. Put plain text files there.
-- Thresholds: configured inside `monitor.sh` (default 0.70). `compare_tool` supports `--threshold`.
+- Thresholds: configured inside `monitor.sh` (default 0.01). `compare_tool` supports `--threshold`.
 
 Notes
 - This is a prototype. For production integrate with system clipboard hooks and a daemon/service.
